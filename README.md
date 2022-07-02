@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&theme=gruvbox)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmic-noir)](https://github.com/anuraghazra/github-readme-stats&theme=gruvbox)
 
 - 👋 Hi, I’m @Cosmic-Noir
 - 👀 I’m interested in ...

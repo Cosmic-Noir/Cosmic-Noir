@@ -1,4 +1,4 @@
-![Cosmic-Noir's GitHub stats](https://github-readme-stats-cosmicnoir.vercel.app/api?username=cosmic-noir&show_icons=true&theme=radical&count_private=true)
+![Cosmic-Noir's GitHub stats](https://github-readme-stats-cosmicnoir.vercel.app/api?username=cosmic-noir&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 - 👋 Hi, I’m @Cosmic-Noir
 - 👀 I’m interested in ...

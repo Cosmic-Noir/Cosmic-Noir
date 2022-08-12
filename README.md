@@ -1,5 +1,3 @@
-![Cosmic-Noir's GitHub stats](https://github-readme-stats-cosmicnoir.vercel.app/api?username=cosmic-noir&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars,issues)
-
 - 👋 Hi, I’m @Cosmic-Noir!
 - 👀 I’m interested in technology, futurism, and kindness <3
 - 🌱 I’m currently learning Ruby on Rails and React.
